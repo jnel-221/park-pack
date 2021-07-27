@@ -31,6 +31,7 @@ Park Pack: a place for those who want to find friends for their new pup to socia
 This app is a social media site...FOR DOGGOS! Create a profile for your dog, cute picture included, and scroll through other users to create friendships.  There is even a built in chat application so a client can plan out a doggy date!
 
 Frontend Technologies: Handlebars.js, Bootstrap, socket.io
+
 Backend Technologies: mySQL, sequelize, express, bcrypt, node
 
 --- 
